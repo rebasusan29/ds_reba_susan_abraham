@@ -4,8 +4,6 @@
 
 **Role:** Junior Data Scientist Application
 
-**Task:** Web3 Trading Team Assignment
-
 ---
 
 ## 📌 Project Overview
