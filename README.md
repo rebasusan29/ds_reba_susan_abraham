@@ -1,7 +1,9 @@
 # Trader Behavior & Market Sentiment Analysis
 
 **Candidate:** Reba Susan Abraham
+
 **Role:** Junior Data Scientist Application
+
 **Task:** Web3 Trading Team Assignment
 
 ---
