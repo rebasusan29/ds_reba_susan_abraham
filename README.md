@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the analysis for the PrimeTrade AI Data Science task. It explores the relationship between trader performance (PnL, Volume) and market sentiment (Fear & Greed Index) to identify behavioral inefficiencies.
 
-**Google Colab Link:** [INSERT YOUR GOOGLE COLAB LINK HERE]
+**Google Colab Link:** [https://colab.research.google.com/drive/1rWx613PNg5VCsHl90qr1B_yEeUKN98Yt?usp=sharing]
 
 ## Key Findings
 - **Euphoria Trap:** Trader profitability peaks during "Greed" ($87.89) but drops by **~71%** when sentiment shifts to "Extreme Greed" ($25.42).
